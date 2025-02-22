@@ -1,6 +1,6 @@
 # Gittuf Targets Visualizer 
 
-A tools used to visualize targets and delegations from gittuf metadata. Upload a targets.json file and graphs (using [Vis.js](https://visjs.github.io/vis-network/docs/network/)) will be generated to show delegations and targets. A tools is also included to see if actors are authorized to make changes to a repository. 
+A tools used to visualize targets and delegations from (gittuf)[https://gittuf.dev/] metadata. Upload a targets.json file and graphs (using [Vis.js](https://visjs.github.io/vis-network/docs/network/)) will be generated to show delegations and targets. A tools is also included to see if actors are authorized to make changes to a repository. 
 
 ## Delegations Graph 
 
